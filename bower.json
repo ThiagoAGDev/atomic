@@ -1,0 +1,28 @@
+{
+  "name": "atomic plug",
+  "description": "Plug Atomic",
+  "main": "index.php",
+  "authors": [
+    "plug.ag"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "otimização",
+    "atomic"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "components"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "breakpoint-sass": "^2.7.1",
+    "sass-flex-mixin": "^1.0.3"
+  }
+}
